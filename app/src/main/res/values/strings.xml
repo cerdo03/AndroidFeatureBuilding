@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project</string>
+    <string name="welcome">Welcome Back to \n Skrate!!</string>
+    <string name="singinwithgoogle">Sign In With Google</string>
 </resources>
